@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-animated-website/static/css/main.1bf934f4.css",
+    "main.js": "/react-animated-website/static/js/main.c3d852d6.js",
+    "static/media/hero-img.png": "/react-animated-website/static/media/hero-img.d06ff33bd5f804baba29.png",
+    "static/media/about.png": "/react-animated-website/static/media/about.1c3d05a0bef752a3afb9.png",
+    "static/media/avatar3.png": "/react-animated-website/static/media/avatar3.053118dc4c3a938fd89d.png",
+    "static/media/feature2.png": "/react-animated-website/static/media/feature2.aa8cfbcff7c4975f6f37.png",
+    "static/media/feature3.png": "/react-animated-website/static/media/feature3.d41c5afe07c670d96f41.png",
+    "static/media/feature4.png": "/react-animated-website/static/media/feature4.821e83ecc96bd79a8e9a.png",
+    "static/media/feature1.png": "/react-animated-website/static/media/feature1.3bd68cd8e4cd29a40d80.png",
+    "static/media/feature4_bg.png": "/react-animated-website/static/media/feature4_bg.da2f2bdbea11c95080a8.png",
+    "static/media/feature1_bg.png": "/react-animated-website/static/media/feature1_bg.02fab76ed86ad763f03f.png",
+    "index.html": "/react-animated-website/index.html",
+    "main.1bf934f4.css.map": "/react-animated-website/static/css/main.1bf934f4.css.map",
+    "main.c3d852d6.js.map": "/react-animated-website/static/js/main.c3d852d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf934f4.css",
+    "static/js/main.c3d852d6.js"
+  ]
+}
